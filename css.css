@@ -4,6 +4,20 @@
   background-color: rgb(17, 17, 17);
 }
 
+.welcomeHeader {
+  color: rgb(204, 51, 204);
+  text-align: left;
+  padding-left: 20px;
+}
+
+.topNavBar {
+  text-decoration: underline;
+}
+
+.headerImages {
+  padding-top: 10px;
+}
+
 body {
   text-align: center;
 }

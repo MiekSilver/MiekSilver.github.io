@@ -11,7 +11,12 @@
 }
 
 .topNavBar {
+  text-align: center;
+}
+
+.topNavBar a {
   text-decoration: underline;
+  padding-right: 10px;
 }
 
 .headerImages {
